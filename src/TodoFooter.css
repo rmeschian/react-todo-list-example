@@ -1,0 +1,20 @@
+.todoAppFooter {
+    color: #777;
+    padding: 10px 15px;
+    height: 20px;
+    border-top: 1px solid #e6e6e6;
+  }
+  
+  .todoClearCompleted {
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    right: 7px;
+    z-index: 9;
+    border: 0;
+    color: #4d4d4d;
+    background: #d6d6d6;
+    font-weight: 500;
+    padding: 3px 5px;
+    border-bottom: 1px solid #e6e6e6;
+  }
